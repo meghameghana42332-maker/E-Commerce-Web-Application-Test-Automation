@@ -1,0 +1,22 @@
+SHOP EASE - E-COMMERCE WEB APPLICATION
+======================================
+
+WINDOWS
+1. Extract the ZIP completely.
+2. Double-click OPEN-WEBSITE.bat.
+3. Your browser will open the live website at:
+   http://127.0.0.1:8000/index.html
+
+MAC / LINUX
+1. Open Terminal in this folder.
+2. Run: python3 -m http.server 8000
+3. Open: http://127.0.0.1:8000/index.html
+
+IMPORTANT
+Opening the HTML files directly can work, but using the local server is better
+because it behaves like a real website and is the same style of setup used for
+browser automation.
+
+PUBLIC LIVE WEBSITE
+This project is ready to publish with GitHub Pages, Netlify, or Vercel.
+Those services will give you a public https:// URL.

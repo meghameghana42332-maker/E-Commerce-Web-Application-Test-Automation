@@ -1,3 +1,13 @@
+# ShopEase – E-Commerce Web Application & Test Automation
+
+## See the website live on your computer
+
+**Windows:** extract the ZIP and double-click `OPEN-WEBSITE.bat`. It starts a local web server and opens the website automatically at `http://127.0.0.1:8000/index.html`.
+
+**Mac/Linux:** run `python3 -m http.server 8000` in this folder, then open `http://127.0.0.1:8000/index.html`.
+
+> A ZIP file itself is not a public website. To get a public `https://` address, publish this folder with GitHub Pages, Netlify, or Vercel.
+
 # E-Commerce Web Application & Test Automation Project
 
 A portfolio-ready static e-commerce application built with HTML, CSS and vanilla JavaScript, plus Playwright automation tests.
